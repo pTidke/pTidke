@@ -16,7 +16,7 @@ I am a cloud data engineer with 4 years of experience in the Manufacturing, Warr
 
 💻 My interests lie within the field of Secure AI, Data Engineering and Application Development.
 
-🎶 Outside my academic and professional pursuits, I am passionate about music. I love to play guitar as hobby.
+🎶 Outside my academic and professional pursuits, I am passionate about music. I love to play guitar.
 
 🎞️ I am also interested in video games and photography
 

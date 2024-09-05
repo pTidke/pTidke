@@ -7,6 +7,8 @@
 
 🌱 **I’m currently pursuing** - Masters Degree in Big Data Analytics @San Diego State University
 
+💬 **Ask me about** - I am a cloud data engineer by profession but very enthusiastic about open source web and mobile development. I love exploring cool repositories!!
+
 📫 **How to reach me** - ptidke9@gmail.com
 
 📄 **Know about my experiences** - [Resume](https://github.com/pTidke/BDA594-ptidke/blob/master/assets/Prajwal%20Tidke%20Resume.pdf)

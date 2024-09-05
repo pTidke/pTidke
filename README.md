@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/stungravy69" target="blank"><img src="https://img.shields.io/twitter/follow/stungravy69?logo=twitter&style=for-the-badge" alt="stungravy69" /></a> </p>
 
-🌱 **I’m currently pursuing** - Masters Degree in Big Data Analytics @San Diego State University
-
 💬 **Ask me about** - I am a cloud data engineer by profession but very enthusiastic about open source web and mobile development. I love exploring cool repositories!!
 
 📫 **How to reach me** - ptidke9@gmail.com

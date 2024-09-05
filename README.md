@@ -6,6 +6,10 @@
   </a>
 </h1>
 
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fstungravy69?style=flat-square&color=FAEEE7&&label=%40stungravy69)](https://x.com/stungravy69)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajwal-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-tidke-87958a126/)
+[![Gmail](https://img.shields.io/badge/Gmail-jpaefra@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:jpaefra@gmail.com?subject=Hey!)
+
 💬 **Ask me about** - I am a cloud data engineer by profession but very enthusiastic about open source web and mobile development. I love exploring cool repositories!!
 
 📫 **How to reach me** - ptidke9@gmail.com

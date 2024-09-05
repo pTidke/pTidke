@@ -7,8 +7,6 @@
 
 🌱 **I’m currently pursuing** - Masters Degree in Big Data Analytics @San Diego State University
 
-💬 **Ask me about** - Experienced cloud data engineer with 4 years of expertise in the Manufacturing, Warranty, Payroll and Finance Domain. Dedicated to crafting efficient cloud data solutions through rigorous analysis and passionate about data science, blending strong technical and interpersonal skills. My goal is to enhance my skills and create value for employers and society.
-
 📫 **How to reach me** - ptidke9@gmail.com
 
 📄 **Know about my experiences** - [Resume](https://github.com/pTidke/BDA594-ptidke/blob/master/assets/Prajwal%20Tidke%20Resume.pdf)

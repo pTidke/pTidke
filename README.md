@@ -6,9 +6,6 @@
   </a>
 </h1>
 
-<h1 align="center">Hi 👋, I'm Prajwal Tidke</h1>
-<h3 align="center">A passionate Cloud Data Engineer from India</h3>
-
 <p align="left"> <a href="https://twitter.com/stungravy69" target="blank"><img src="https://img.shields.io/twitter/follow/stungravy69?logo=twitter&style=for-the-badge" alt="stungravy69" /></a> </p>
 
 💬 **Ask me about** - I am a cloud data engineer by profession but very enthusiastic about open source web and mobile development. I love exploring cool repositories!!

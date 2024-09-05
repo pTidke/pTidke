@@ -11,7 +11,7 @@
 
 📫 **How to reach me** - ptidke9@gmail.com
 
-📄 **Know about my experiences** - [https://github.com/pTidke/BDA594-ptidke/blob/master/assets/Prajwal%20Tidke%20Resume.pdf](https://github.com/pTidke/BDA594-ptidke/blob/master/assets/Prajwal%20Tidke%20Resume.pdf)
+📄 **Know about my experiences** - [Resume](https://github.com/pTidke/BDA594-ptidke/blob/master/assets/Prajwal%20Tidke%20Resume.pdf)
 
 ⚡ **Fun fact about me** - Shopping is my stressbuster
 

@@ -2,11 +2,9 @@
 
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=35&duration=3000&pause=500&multiline=true&width=650&height=110&lines=%24+whoami;Prajwal+Tidke" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=35&duration=3000&pause=500&multiline=true&width=600&height=80&lines=%24+whoami;Prajwal+Tidke" alt="Title GitHub Readme" />
   </a>
 </h1>
-
-<p align="left"> <a href="https://twitter.com/stungravy69" target="blank"><img src="https://img.shields.io/twitter/follow/stungravy69?logo=twitter&style=for-the-badge" alt="stungravy69" /></a> </p>
 
 💬 **Ask me about** - I am a cloud data engineer by profession but very enthusiastic about open source web and mobile development. I love exploring cool repositories!!
 

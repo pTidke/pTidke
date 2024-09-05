@@ -1,7 +1,13 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ptidke&label=Profile%20views&color=0e75b6&style=flat" alt="ptidke" /> </p>
+
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Prajwal+Tidke" alt="Title GitHub Readme" />
+  </a>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Prajwal Tidke</h1>
 <h3 align="center">A passionate Cloud Data Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptidke&label=Profile%20views&color=0e75b6&style=flat" alt="ptidke" /> </p>
 
 <p align="left"> <a href="https://twitter.com/stungravy69" target="blank"><img src="https://img.shields.io/twitter/follow/stungravy69?logo=twitter&style=for-the-badge" alt="stungravy69" /></a> </p>
 

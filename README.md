@@ -1,28 +1,101 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ptidke&label=Profile%20views&color=0e75b6&style=flat" alt="ptidke" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=pTidke&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<h1 style="text-align: center;">
+<h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=35&duration=3000&pause=500&multiline=true&width=600&height=90&lines=%24+whoami;Prajwal+Tidke" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=900&size=34&duration=3000&pause=700&center=true&vCenter=true&multiline=true&width=720&height=90&lines=%24+whoami;Prajwal+Tidke" alt="Prajwal Tidke">
   </a>
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajwal-informational?style=flat-square&logo=linkedin&logoColor=FAEEE7)](https://www.linkedin.com/in/prajwal-tidke-87958a126/)
-[![Gmail](https://img.shields.io/badge/Gmail-ptidke9@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:ptidke9@gmail.com?subject=Hey!)
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fstungravy69?style=flat-square&color=FAEEE7&label=stungravy69)](https://x.com/stungravy69)
+<!-- <p align="center">
+  <b>MS Data Science @ SDSU (GPA 4.0)</b> &nbsp;•&nbsp; Data Engineering → ML &nbsp;•&nbsp; LLMs · Time-series · Data Platforms
+</p> -->
 
-My name is Prajwal Tidke, a graduate student at San Diego State University 🇺🇸 pursuing Masters degree in Big Data Analytics. Previously, I obtained my Bachelors degree in Computer Science and Engineering from IIITDM Jabalpur 🇮🇳
+<p align="center">
+  <a href="https://www.prajwaltidke.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-prajwaltidke.me-000?style=flat&logo=vercel" />
+  </a>
+  <a href="mailto:ms.ptidke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ms.ptidke%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ptidke9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prajwal%20Tidke-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pTidke?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@pTidke-181717?style=flat&logo=github" />
+  </a>
+</p>
 
-I am a cloud data engineer with 4 years of experience in the Manufacturing, Warranty, Payroll and Finance Domain. Dedicated to crafting efficient cloud data solutions through rigorous analysis and passionate about data science, blending strong technical and interpersonal skills.
+---
 
-💻 My interests lie within the field of Secure AI, Data Engineering and Application Development.
+### 👋 About me
+I’m a graduate researcher and engineer focusing on **LLMs**, **time-series modeling**, and **reliable data/experiment pipelines**.  
+Currently at **SDSU**, I work on a multilingual, privacy-aware assistant (fine-tuning **LLaMA/KBLaM**) and uncertainty-aware models for biosignals.  
+Before grad school, I spent **4+ years** building production data systems (Databricks/PySpark, Airflow, AWS; Snowflake).  
+I also **built the website for SDSU’s LINC Research Lab**, bridging backend APIs with accessible, clean front-end UX.
 
-🎶 Outside my academic and professional pursuits, I am passionate about music. I love to play guitar.
+---
 
-🎞️ I am also interested in video games and photography
+### 📂 Projects (selection)
+- **Knowledge-grounded mental-health assistant** — LLaMA adapters + knowledge tokens; eval + uncertainty.  
+- **Geospatial health analytics (Medi-vu)** — Tableau/ArcGIS dashboards to surface access gaps.  
+- **Wildfire risk modeling** — RF/CatBoost using remote sensing + weather features.  
+- **Anomaly detection with WGAN** — augmentation + uncertainty; improved robustness on imbalanced data.  
+- **ETL modernization** — SAP BODS → AWS Glue/Snowflake; automation and cost-reliability gains.
 
-<h4 align="left">Languages and Tools -</h4>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+> Deep dives and code samples live on my **[Portfolio](https://www.prajwaltidke.me/)** and **[Repos](https://github.com/pTidke?tab=repositories)**.
 
-<br/>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptidke&show_icons=true&locale=en&layout=compact" alt="ptidke" /></p>
+### 🧰 Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HF%20Transformers-FFD21E?logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Databricks-FE2C2C?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=esri&logoColor=white" />
+</p>
+
+---
+
+### 🔭 Now
+- Building **LLM adapters** and **evaluation harnesses** with reproducible metrics.  
+- Hardening **data/experiment pipelines** for reliable iteration.  
+- Open to collab on LLM eval, agent reliability, and data platform projects.
+
+---
+
+### 📈 GitHub
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=pTidke&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub stats">
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pTidke&layout=compact&hide_title=true" alt="Top languages">
+</td>
+</tr>
+</table>
+
+---
+
+### 📷 Off-hours
+Photography (IG: <a href="https://www.instagram.com/clickoftime" target="_blank">@clickoftime</a>), hiking, and chess.
+
+<!--
+Curation tips:
+- Pin 4–6 repos that reflect this story (LLM/KBLaM work, ETL/Databricks, geospatial analytics, WGAN anomaly detection).
+- Keep the Projects section aligned with pinned repos and portfolio links.
+- Update the "Now" section each quarter.
+-->

@@ -12,30 +12,12 @@
   <b>MS Data Science @ SDSU (GPA 4.0)</b> &nbsp;•&nbsp; Data Engineering → ML &nbsp;•&nbsp; LLMs · Time-series · Data Platforms
 </p> -->
 
-<p align="center">
-  <a href="https://www.prajwaltidke.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-prajwaltidke.me-000?style=flat&logo=vercel" />
-  </a>
-  <a href="mailto:ms.ptidke@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ms.ptidke%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ptidke9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prajwal%20Tidke-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/pTidke?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@pTidke-181717?style=flat&logo=github" />
-  </a>
-</p>
-
----
-
 ### 👋 About me
 I’m a graduate researcher and engineer focusing on **LLMs**, **time-series modeling**, and **reliable data/experiment pipelines**.  
 Currently at **SDSU**, I work on a multilingual, privacy-aware assistant (fine-tuning **LLaMA/KBLaM**) and uncertainty-aware models for biosignals.  
 Before grad school, I spent **4+ years** building production data systems (Databricks/PySpark, Airflow, AWS; Snowflake).  
 I also **built the website for SDSU’s LINC Research Lab**, bridging backend APIs with accessible, clean front-end UX.
 
----
 
 ### 📂 Projects (selection)
 - **Knowledge-grounded mental-health assistant** — LLaMA adapters + knowledge tokens; eval + uncertainty.  
@@ -45,8 +27,6 @@ I also **built the website for SDSU’s LINC Research Lab**, bridging backend AP
 - **ETL modernization** — SAP BODS → AWS Glue/Snowflake; automation and cost-reliability gains.
 
 > Deep dives and code samples live on my **[Portfolio](https://www.prajwaltidke.me/)** and **[Repos](https://github.com/pTidke?tab=repositories)**.
-
----
 
 ### 🧰 Stack
 <p>
@@ -67,14 +47,12 @@ I also **built the website for SDSU’s LINC Research Lab**, bridging backend AP
   <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=esri&logoColor=white" />
 </p>
 
----
 
 ### 🔭 Now
 - Building **LLM adapters** and **evaluation harnesses** with reproducible metrics.  
 - Hardening **data/experiment pipelines** for reliable iteration.  
 - Open to collab on LLM eval, agent reliability, and data platform projects.
 
----
 
 ### 📈 GitHub
 <table>
@@ -88,10 +66,26 @@ I also **built the website for SDSU’s LINC Research Lab**, bridging backend AP
 </tr>
 </table>
 
----
 
 ### 📷 Off-hours
 Photography (IG: <a href="https://www.instagram.com/clickoftime" target="_blank">@clickoftime</a>), hiking, and chess.
+
+---
+
+<p align="center">
+  <a href="https://www.prajwaltidke.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-prajwaltidke.me-000?style=flat&logo=vercel" />
+  </a>
+  <a href="mailto:ms.ptidke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ms.ptidke%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ptidke9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prajwal%20Tidke-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/pTidke?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@pTidke-181717?style=flat&logo=github" />
+  </a>
+</p>
 
 <!--
 Curation tips:

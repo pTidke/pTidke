@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=pTidke&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pTidke&label=Profile%20views&color=0e75b6&style=flat" alt="pTidke" />
 </p>
 
 <h1 align="center">
@@ -8,88 +8,120 @@
   </a>
 </h1>
 
-<!-- <p align="center">
-  <b>MS Data Science @ SDSU (GPA 4.0)</b> &nbsp;•&nbsp; Data Engineering → ML &nbsp;•&nbsp; LLMs · Time-series · Data Platforms
-</p> -->
-
-### 👋 About me
-I’m a graduate researcher and engineer focusing on **LLMs**, **time-series modeling**, and **reliable data/experiment pipelines**.  
-Currently at **SDSU**, I work on a multilingual, privacy-aware assistant (fine-tuning **LLaMA/KBLaM**) and uncertainty-aware models for biosignals.  
-Before grad school, I spent **4+ years** building production data systems (Databricks/PySpark, Airflow, AWS; Snowflake).  
-I also **built the website for SDSU’s LINC Research Lab**, bridging backend APIs with accessible, clean front-end UX.
-
-
-### 📂 Projects (selection)
-- **Knowledge-grounded mental-health assistant** — LLaMA adapters + knowledge tokens; eval + uncertainty.  
-- **Geospatial health analytics (Medi-vu)** — Tableau/ArcGIS dashboards to surface access gaps.  
-- **Wildfire risk modeling** — RF/CatBoost using remote sensing + weather features.  
-- **Anomaly detection with WGAN** — augmentation + uncertainty; improved robustness on imbalanced data.  
-- **ETL modernization** — SAP BODS → AWS Glue/Snowflake; automation and cost-reliability gains.
-
-> Deep dives and code samples live on my **[Portfolio](https://www.prajwaltidke.me/)** and **[Repos](https://github.com/pTidke?tab=repositories)**.
-
-### 🧰 Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HF%20Transformers-FFD21E?logo=huggingface&logoColor=000" />
-  <img src="https://img.shields.io/badge/Databricks-FE2C2C?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?logo=esri&logoColor=white" />
+<p align="center">
+  <b>MS Data Science @ SDSU</b> · Data Engineer → ML Engineer · LLMs · Backends · AI Systems
 </p>
-
-
-### 🔭 Now
-- Building **LLM adapters** and **evaluation harnesses** with reproducible metrics.  
-- Hardening **data/experiment pipelines** for reliable iteration.  
-- Open to collab on LLM eval, agent reliability, and data platform projects.
-
-
-### 📈 GitHub
-<table>
-<tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=pTidke&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" alt="GitHub stats">
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pTidke&layout=compact&hide_title=true" alt="Top languages">
-</td>
-</tr>
-</table>
-
-
-### 📷 Off-hours
-Photography (IG: <a href="https://www.instagram.com/clickoftime" target="_blank">@clickoftime</a>), hiking, and chess.
-
----
 
 <p align="center">
   <a href="https://www.prajwaltidke.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-prajwaltidke.me-000?style=flat&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-prajwaltidke.me-7F3FBF?style=flat&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:ms.ptidke@gmail.com">
     <img src="https://img.shields.io/badge/Email-ms.ptidke%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ptidke9/" target="_blank">
+  <a href="https://www.linkedin.com/in/ptidke9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prajwal%20Tidke-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/pTidke?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@pTidke-181717?style=flat&logo=github" />
+  <a href="https://www.instagram.com/clickoftime" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@clickoftime-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<!--
-Curation tips:
-- Pin 4–6 repos that reflect this story (LLM/KBLaM work, ETL/Databricks, geospatial analytics, WGAN anomaly detection).
-- Keep the Projects section aligned with pinned repos and portfolio links.
-- Update the "Now" section each quarter.
--->
+---
+
+### 👨‍💻 About me
+I’m a graduate researcher at **San Diego State University** working across:
+
+- **LLMs & AI systems** — knowledge-grounded chatbots, LLaMA/KBLaM fine-tuning, eval pipelines  
+- **Data engineering** — ETL, PySpark, Airflow, Databricks, Snowflake, AWS  
+- **Applied ML** — time-series, anomaly detection (WGAN), geospatial analytics  
+
+Before grad school, I spent **4+ years** building enterprise data platforms in finance, healthcare, and manufacturing.
+
+I also enjoy product building — from research lab websites to catalogue webapps to an iOS + voice-chat interface for a mental-health chatbot.
+
+---
+
+### 🔭 What I’m working on
+- A **mental-health support chatbot for construction workers** — LLM backend (KBLaM + LLaMA), **iOS app**, and **voice-chat interface**  
+- **Web apps** including the **SDSU LINC Research Lab** website and **Lovique-Studio catalogue** application  
+- **Evaluation pipelines** + **FastAPI backend services** for knowledge-grounded LLMs  
+
+---
+
+### 🌱 Currently learning
+- Deep learning & LLM fine-tuning (LoRA/QLoRA)  
+- **RAG** and **AI agents/workers**  
+- Backend engineering with **Python + FastAPI**  
+- **Azure Foundry** for ML deployment  
+
+---
+
+### 👯 Collaboration & help
+- Looking to collaborate on:  
+  **AI apps, LLM-based systems, ML pipelines, and OSS projects**
+
+- Looking for help with:  
+  **System design, scalable ML infra, MLOps, and open/free resources for AI prototyping**
+
+---
+
+### 💬 Ask me about
+- LLaMA / KBLaM fine-tuning  
+- Databricks · PySpark · Airflow · Snowflake · AWS  
+- FastAPI · Python backends  
+- Time-series & geospatial analytics  
+- Building ML systems end-to-end  
+
+---
+### 🧰 Tech Stack
+
+#### **AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,keras" height="40" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+</p>
+
+#### **Backend, Data Engineering & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,cpp,java,scala" height="40" />
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+</p>
+
+#### **Frontend & Other Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,androidstudio" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,gitlab" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma,anaconda,streamlit" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pTidke&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pTidke&layout=compact&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pTidke" />
+</p>
+
+---
+
+### ⚡ Fun fact
+I take my work seriously, but not myself.  
+Also, I’m a photographer who can **code, watch YouTube, and scroll Instagram at the same time** — peak multitasking energy.
+

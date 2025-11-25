@@ -105,19 +105,14 @@ I also enjoy product building — from research lab websites to catalogue webapp
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Trophies
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pTidke" alt="pTidke" /></a> </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pTidke&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pTidke&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=3" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pTidke&layout=compact&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pTidke" />
-</p>
 
 ---
 

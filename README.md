@@ -130,13 +130,13 @@ with DAG(dag_id="prajwal_tidke", schedule="@daily", catchup=False) as life:
       </a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/pTidke/ai-supremacy-index">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=ai-supremacy-index&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
       </a>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 #### `product_builds/`

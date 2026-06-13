@@ -121,12 +121,12 @@ with DAG(dag_id="prajwal_tidke", schedule="@daily", catchup=False) as life:
   <tr>
     <td align="center">
       <a href="https://github.com/pTidke/RiskPulse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=RiskPulse&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=RiskPulse&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&repo=RiskPulse&cache_seconds=14400" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/pTidke/TrafficSensAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=TrafficSensAI&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=TrafficSensAI&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&repo=RiskPulse&cache_seconds=14400" />
       </a>
     </td>
   </tr>
@@ -145,12 +145,12 @@ with DAG(dag_id="prajwal_tidke", schedule="@daily", catchup=False) as life:
   <tr>
     <td align="center">
       <a href="https://github.com/pTidke/nextjs-lovique-studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=nextjs-lovique-studio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=nextjs-lovique-studio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&repo=RiskPulse&cache_seconds=14400" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/pTidke/nextjs-allabouttax">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=nextjs-allabouttax&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pTidke&repo=nextjs-allabouttax&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&repo=RiskPulse&cache_seconds=14400" />
       </a>
     </td>
   </tr>

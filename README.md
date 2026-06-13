@@ -93,17 +93,17 @@ with DAG(dag_id="prajwal_tidke", schedule="@daily", catchup=False) as life:
 <a href="https://credentials.databricks.com/0f18894a-b8ea-48dc-bafb-657699b6323c#acc.VUFLCTjh" target="_blank">
   <img src="https://img.shields.io/badge/Databricks_Platform_Architect-Azure-0D4429?style=flat-square&logo=databricks&logoColor=00FF41&labelColor=0D1117" />
 </a>
-<a href="[https://credentials.databricks.com/fb839461-de47-4071-a903-798f63109094#acc.ACNnof7m" target="_blank">
+<a href="https://credentials.databricks.com/fb839461-de47-4071-a903-798f63109094#acc.ACNnof7m" target="_blank">
   <img src="https://img.shields.io/badge/Databricks_Platform_Architect-GCP-0D4429?style=flat-square&logo=databricks&logoColor=00FF41&labelColor=0D1117" />
 </a>
 
-<a href="[https://www.datacamp.com/certificate/DE0010911538103" target="_blank">
+<a href="https://www.datacamp.com/certificate/DE0010911538103" target="_blank">
   <img src="https://img.shields.io/badge/DataCamp-Data_Engineer-0D4429?style=flat-square&logo=datacamp&logoColor=00FF41&labelColor=0D1117" />
 </a>
-<a href="[https://www.datacamp.com/certificate/DS0029871418512" target="_blank">
+<a href="https://www.datacamp.com/certificate/DS0029871418512" target="_blank">
   <img src="https://img.shields.io/badge/DataCamp-Data_Scientist-0D4429?style=flat-square&logo=datacamp&logoColor=00FF41&labelColor=0D1117" />
 </a>
-<a href="[https://www.datacamp.com/certificate/AEDS0010526670380" target="_blank">
+<a href="https://www.datacamp.com/certificate/AEDS0010526670380" target="_blank">
   <img src="https://img.shields.io/badge/DataCamp-AI_Engineer_Associate-0D4429?style=flat-square&logo=datacamp&logoColor=00FF41&labelColor=0D1117" />
 </a>
 

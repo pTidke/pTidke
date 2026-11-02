@@ -7,11 +7,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=900&color=3FB950&center=true&vCenter=true&width=600&lines=Data+Engineer+%C2%B7+5%2B+years;1.2TB%2Fday+pipelines+%C2%B7+batch+%2B+streaming;Kafka+%E2%86%92+Delta+Lake+%E2%86%92+DuckDB;building+the+data+backbone+for+RAG+%26+agentic+AI" alt="Data Engineer · 5+ years · 1.2TB/day pipelines · data backbone for RAG and agentic AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3200&pause=900&color=3FB950&center=true&vCenter=true&width=600&lines=Data+Engineer+%C2%B7+5%2B+years;1.2TB%2Fday+pipelines+%C2%B7+batch+%2B+streaming;Databricks+%C2%B7+Snowflake+%C2%B7+Airflow+%C2%B7+Kafka;building+the+data+backbone+for+RAG+%26+LLM+systems" alt="Data Engineer · 5+ years · 1.2TB/day pipelines · Databricks, Snowflake, Airflow, Kafka · data backbone for RAG and LLM systems" />
 </p>
 
 <p align="center">
-  <b>MS Big Data Analytics, SDSU '26</b> · 4.0 GPA · open to Data / AI Engineer roles
+  <b>MS Big Data Analytics, SDSU '26</b> · 4.0 GPA · open to Data / AI / Forward Deployed Engineer roles · Bay Area, open to relocate
 </p>
 
 <p align="center">
@@ -45,9 +45,9 @@ with DAG(dag_id="prajwal_tidke", schedule="@daily", catchup=False) as life:
 
     ingest    = Task("BTech CSE @ IIIT Jabalpur → 5+ yrs DE across finance, healthcare, manufacturing")
     transform = Task("MS Big Data Analytics @ SDSU · AI Data Engineer @ LINC Lab")
-    serve     = Task("Production data backbones for RAG & agentic-AI systems")
+    serve     = Task("Production data backbones for RAG & LLM systems")
 
-    ingest >> transform >> serve    # 100% SLA
+    ingest >> transform >> serve
 ```
 
 ---
@@ -87,9 +87,13 @@ with DAG(dag_id="prajwal_tidke", schedule="@daily", catchup=False) as life:
 
 ### 🔐 credentials · `verified_layer`
 
+<sub><code>certifications</code></sub><br>
+
 <!-- To make these clickable, wrap each in <a href="YOUR_MICROSOFT_LEARN_CREDENTIAL_URL" target="_blank"> ... </a> -->
 <img src="https://img.shields.io/badge/Microsoft_Certified-DP--750_Azure_Databricks_Data_Engineer-0D4429?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDBGRjQxIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D&labelColor=0D1117" alt="Microsoft Certified: DP-750 Azure Databricks Data Engineer Associate" />
 <img src="https://img.shields.io/badge/Microsoft_Certified-AI--200_Azure_AI_Cloud_Developer-0D4429?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjMDBGRjQxIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D&labelColor=0D1117" alt="Microsoft Certified: AI-200 Azure AI Cloud Developer Associate" />
+
+<br><sub><code>accreditations</code></sub><br>
 
 <a href="https://credentials.databricks.com/730c4b36-fcde-4a5c-9272-22ac83d6e427#acc.beDig9MG" target="_blank">
   <img src="https://img.shields.io/badge/Databricks_Platform_Architect-AWS-0D4429?style=flat-square&logo=databricks&logoColor=00FF41&labelColor=0D1117" alt="Databricks Platform Architect: AWS" />
@@ -119,14 +123,26 @@ with DAG(dag_id="prajwal_tidke", schedule="@daily", catchup=False) as life:
 
 ### 🥇 gold · `production_marts`
 
+#### `professional/`
+
+</div>
+
+| where | what |
+|---|---|
+| **Carrier Global** (via LTIMindtree) | SQL Server/Oracle → AWS Glue + Snowflake migration with SCD Type 2 · $650K/yr saved · 99.9% data freshness |
+| **Investment analytics** (via TresVista) | 1.2 TB/day Databricks lakehouse fed by 7 vendor feeds · data contracts in CI/CD · Z-Ordering saved $42K/yr |
+| **SDSU LINC Lab** | Sole engineer on KALM, a production clinical RAG system with HIPAA-aligned PII/PHI redaction |
+
+<div align="center">
+
 #### `data_and_ai/`
 
 </div>
 
 | project | what it does | links |
 |---|---|---|
-| **Medi-Vu** | Healthcare access index over 1,389 California ZIP areas that publishes its own uncertainty | [live](https://medi-vu-deep.vercel.app/) · [repo](https://github.com/pTidke/medi-vu-deep) |
-| **KALM** | Clinical mental-health assistant with eval-gated answers and deterministic crisis routing | [live](https://kalm-omega.vercel.app/) |
+| **Medi-Vu** | Healthcare access index over 1,389 California ZIP areas that publishes its own uncertainty · small rural areas 15.6× likelier to be worst-served | [live](https://medi-vu-deep.vercel.app/) · [repo](https://github.com/pTidke/medi-vu-deep) |
+| **KALM** | Clinical mental-health assistant with deterministic crisis routing · every release gated at 0.96 faithfulness | [live](https://kalm-omega.vercel.app/) |
 | **Risk Pulse** | Real-time Kafka → Parquet → DuckDB risk pipeline with dbt contracts and a RAG layer | [repo](https://github.com/pTidke/RiskPulse) |
 | **TrafficSensAI** | DBSCAN + Random Forest on 487K geolocated incidents, 86.3% weighted F1 | [repo](https://github.com/pTidke/TrafficSensAI) |
 
